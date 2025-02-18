@@ -9,7 +9,6 @@ public class SortCSVBySalary {
     public static void main(String[] args) {
         String inputFilePath = "D:\\week-05\\Day1_CSVDataHandling\\src\\main\\java\\com\\intermediateproblems\\sortCSVrecordsbyaColumn\\employees.csv";
 
-        // Check if the file exists before processing
         if (!Files.exists(Paths.get(inputFilePath))) {
             System.out.println("Error: File not found at " + inputFilePath);
             return;
