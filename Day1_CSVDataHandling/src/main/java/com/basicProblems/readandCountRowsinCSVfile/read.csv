@@ -1,0 +1,2 @@
+Read and Count Rows in a CSV File
+Read a CSV file and count the number of records (excluding the header row).
