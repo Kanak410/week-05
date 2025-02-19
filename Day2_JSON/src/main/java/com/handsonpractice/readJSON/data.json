@@ -1,0 +1,9 @@
+{
+  "name": "Kanak Rajput",
+  "age": 22,
+  "address": {
+    "city": "Bhopal",
+    "state": "Madhya Pradesh"
+  },
+  "skills": ["Java", "Spring", "React"]
+}
